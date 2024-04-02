@@ -1,0 +1,14 @@
+{
+  "name": "c-programs",
+  "version": "1.0.0",
+  "description": "# C - language Programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "c"
+  ],
+  "author": "Darshan Gaikwad",
+  "license": "ISC"
+}
